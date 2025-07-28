@@ -5,6 +5,6 @@ near-field regime using MD simulations. A detailed description of the methodolog
 found in the published paper.
 
 
-For any questions, missing data, or further discussions regarding this dataset, please contact the corresponding author:
+For any questions, missing data, or further discussions regarding this dataset, please contact the author:
 Email: yanghaifei@sjtu.edu.cn
 Affiliation: Shanghai Jiao Tong University
